@@ -1,4 +1,4 @@
-# GAT-with-batch-
+# GAT-with-batch
 implement gat with batch
 
 usage:
